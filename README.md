@@ -1,6 +1,6 @@
 # mobile-app-project-ionic
 
-[Link](http://fireshop.stensgaard-medie.dk/)
+[Link til prototype](http://fireshop.stensgaard-medie.dk/)
 
 App for mobile dev. class made in Ionic
 
